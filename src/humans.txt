@@ -1,0 +1,8 @@
+/* TEAM */
+
+	Developer: Icke
+
+/* THANKS */
+
+	响应式布局网站
+	site: http://github.com/ickedesign
